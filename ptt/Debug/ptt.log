@@ -1,0 +1,23 @@
+﻿Build started 13-Jan-17 8:13:44 PM.
+     1>Project "D:\c++\TriTela\ptt2\ptt\ptt.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\ptt.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\ptt.unsuccessfulbuild".
+         Touching "Debug\ptt.lastbuildstate".
+     1>Done Building Project "D:\c++\TriTela\ptt2\ptt\ptt.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.10
